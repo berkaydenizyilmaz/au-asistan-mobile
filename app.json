@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "38f71b89-601a-47c9-8c16-019b2e86c615"
+      }
+    },
+    "owner": "berkay-deniz-dev"
   }
 }
